@@ -1730,6 +1730,7 @@
         "url": "https://github.com/justi"
       },
       "category": "security",
+      "repository": "https://github.com/justi/claude-code-project-boundary",
       "homepage": "https://github.com/justi/claude-code-project-boundary",
       "keywords": [
         "security",
